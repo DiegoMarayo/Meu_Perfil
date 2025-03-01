@@ -10,7 +10,7 @@ body{
 
 header{
     color:#00ff99;
-    padding: 100px;
+    padding: 20px;
     font-family: 'Poppins', sans-serif;
 }
 
@@ -67,4 +67,11 @@ footer{
     align-items: center;
     
 }
- 
+ /* Media query para telas com largura máxima de 600px */
+@media (max-width: 600px) {
+    /* Estilos específicos para telas pequenas */
+    .elemento {
+    font-size: 14px;
+    padding: 10px;
+    }
+    }
