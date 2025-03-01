@@ -10,7 +10,7 @@ body{
 
 header{
     color:#00ff99;
-    padding: 20px;
+    padding: 100px;
     font-family: 'Poppins', sans-serif;
 }
 
@@ -61,7 +61,7 @@ footer{
     max-width: 800px;
 }
 #texto-digitado2{
-    font-size: 30px;
+    font-size: 20px;
     margin-top: 40px;
     margin-bottom: 40px;
     align-items: center;
